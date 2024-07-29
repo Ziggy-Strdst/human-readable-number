@@ -33,5 +33,4 @@ module.exports = function toReadable(number) {
     ];
 
     let resultString = "";
-    ``;
 };
