@@ -24,7 +24,7 @@ module.exports = function toReadable(number) {
     const doubleDigitsArr = [
         "twenty",
         "thirty",
-        "fourty",
+        "forty",
         "fifty",
         "sixty",
         "seventy",
